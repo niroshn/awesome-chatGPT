@@ -26,3 +26,4 @@
 ### Projects
 
 - ![](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension/ioredis.svg?style=flat-square) [`Google Extension`](https://github.com/wong2/chat-gpt-google-extension) - Google Search Extension
+- ![](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension/ioredis.svg?style=flat-square) [`VS Code Extension`](https://github.com/mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)) - Visual Studio Code Extension
