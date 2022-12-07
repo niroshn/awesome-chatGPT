@@ -16,3 +16,13 @@
 </div>
 
 ## Contents <!-- omit in toc -->
+
+
+## Resources
+
+#### Official Resources
+- [Blog](https://openai.com/blog/chatgpt)
+
+### Projects
+
+- ![](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension/ioredis.svg?style=flat-square) [`Google Extension`](https://github.com/wong2/chat-gpt-google-extension) - Google Search Extension
