@@ -23,7 +23,10 @@
 #### Official Resources
 - [Blog](https://openai.com/blog/chatgpt)
 
-### Projects
+### Extension
 
 - ![](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension/ioredis.svg?style=flat-square) [`Google Extension`](https://github.com/wong2/chat-gpt-google-extension) - Google Search Extension
-- ![](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension/ioredis.svg?style=flat-square) [`VS Code Extension`](https://github.com/mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)) - Visual Studio Code Extension
+- ![](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension/ioredis.svg?style=flat-square) [`VS Code Extension`](https://github.com/mpociot/chatgpt-vscode) - Visual Studio Code Extension
+
+### Packages/Library
+- ![](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension/ioredis.svg?style=flat-square) [`Light Weight Python Package`](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
